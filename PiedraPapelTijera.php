@@ -33,9 +33,9 @@
             } elseif (($resolucion1 == 'piedra' && $resolucion2 == 'tijera') ||
                       ($resolucion1 == 'papel' && $resolucion2 == 'piedra') ||
                       ($resolucion1 == 'tijera' && $resolucion2 == 'papel')) {
-                echo "¡Ha ganado Jugador 1!";
+                echo "¡Ha ganado Jugador 2!";
             } else {
-                echo "¡Ha ganado jugador 2!";
+                echo "¡Ha ganado jugador 1!";
             }
         
     
